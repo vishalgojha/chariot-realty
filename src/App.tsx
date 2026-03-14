@@ -874,7 +874,7 @@ function TeamSection() {
               <div style={{ width: 72, height: 72, borderRadius: "50%", border: "2px solid #C9A84C", display: "flex", alignItems: "center", justifyContent: "center", fontFamily: "var(--font-display)", fontSize: "1.8rem", fontWeight: 600, color: "#C9A84C", background: "rgba(201,168,76,0.06)", flexShrink: 0 }}>K</div>
               <div>
                 <div style={{ fontFamily: "var(--font-display)", fontSize: "1.6rem", fontWeight: 500, color: "#F9F4EA", marginBottom: "0.2rem" }}>Kapil</div>
-                <div style={{ fontFamily: "var(--font-mono)", fontSize: "0.7rem", letterSpacing: "0.12em", textTransform: "uppercase", color: "#C9A84C", marginBottom: "0.8rem" }}>Senior Partner - Admin Access</div>
+                <div style={{ fontFamily: "var(--font-mono)", fontSize: "0.7rem", letterSpacing: "0.12em", textTransform: "uppercase", color: "#C9A84C", marginBottom: "0.8rem" }}>Founder</div>
                 <p style={{ fontSize: "0.88rem", color: "#8c8072", lineHeight: 1.65, marginBottom: "1.2rem" }}>Commercial and residential specialist who knows every building in Bandra by name. Handles broker relationships, deal analysis, and the art of the negotiation.</p>
                 <a href={WA} target="_blank" rel="noopener" style={{ display: "inline-flex", alignItems: "center", gap: "0.5rem", fontFamily: "var(--font-mono)", fontSize: "0.78rem", color: "#F9F4EA", textDecoration: "none", background: "rgba(37,211,102,0.1)", border: "1px solid rgba(37,211,102,0.2)", padding: "0.5rem 1rem", borderRadius: 2 }}>
                   +91 97737 57759
