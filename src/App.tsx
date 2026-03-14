@@ -210,7 +210,7 @@ const HOW_STEPS = [
 
 // ── HOOK: Intersection Observer reveal ───────────────
 function useReveal(): [React.RefObject<HTMLDivElement>, boolean] {
-  const ref = useRef<HTMLDivElement | null>(null);
+  const ref = useRef<HTMLDivElement>(null!);
   const [visible, setVisible] = useState(false);
   useEffect(() => {
     const el = ref.current;
